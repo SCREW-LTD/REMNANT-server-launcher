@@ -1,2 +1,2 @@
 # REMNANT: SERVER
-Docs: remnant.screwltd.com/server/docs
+Docs: https://remnant.screwltd.com/server/docs
